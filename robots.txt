@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://srpconsultinggroup.com/sitemap.xml
